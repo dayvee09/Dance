@@ -6,6 +6,6 @@ public class Me {
 
 	public static void sayAge() {
 	System.out.println(21);
-
+	System.out.println(19);
 	}
 }
